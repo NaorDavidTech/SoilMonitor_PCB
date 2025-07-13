@@ -34,7 +34,7 @@ It combines embedded control, wireless communication, power management, and envi
 - `README.md` – Project overview (this file)
 - `LICENSE` – MIT License
 
-## 👨‍🔧 Authors
+## 👨‍🔧 Author
 
 - Naor David  
 
