@@ -37,7 +37,7 @@ It combines embedded control, wireless communication, power management, and envi
 ## 📦 Downloadable ZIP Package
 
 For convenience, the entire Altium project, including schematics, PCB layout, Gerber files, and BOM, is available as a ZIP package:
-
+[📥 Download SoilMonitor_PCB.zip](./SoilMonitor_PCB.zip)
 
 ## 👨‍🔧 Author
 
