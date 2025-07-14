@@ -30,7 +30,7 @@ It combines embedded control, wireless communication, power management, and envi
 - `*.PrjPcb` – Main Altium project file
 - `*.SchDoc` – Schematic files (divided into subsystems)
 - `*.PcbDoc` – PCB layout
-- `*.OutJob`, `*.BomDoc`, `*.Draftsman` – Output & documentation
+- `*.OutJob`, `*.Draftsman` – Output & documentation
 - `README.md` – Project overview (this file)
 - `LICENSE` – MIT License
 
