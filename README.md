@@ -34,6 +34,11 @@ It combines embedded control, wireless communication, power management, and envi
 - `README.md` – Project overview (this file)
 - `LICENSE` – MIT License
 
+## 📦 Downloadable ZIP Package
+
+For convenience, the entire Altium project, including schematics, PCB layout, Gerber files, and BOM, is available as a ZIP package:
+
+
 ## 👨‍🔧 Author
 
 - Naor David  
