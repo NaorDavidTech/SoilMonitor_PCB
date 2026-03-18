@@ -1,3 +1,5 @@
+## SoilMonitor_PCB
+![SoilMonitor_PCB](PCB.png)
 # SoilMonitor_PCB
 Custom PCB for a smart soil moisture monitoring system using ESP-12S and external sensor integration. 
 The system is powered by a rechargeable 18650 battery and features Wi-Fi connectivity for real-time data transmission.
